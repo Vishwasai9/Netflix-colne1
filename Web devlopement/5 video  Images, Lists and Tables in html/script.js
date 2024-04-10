@@ -1,1 +1,0 @@
-alert("video 5 about Table, images & List")
