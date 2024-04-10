@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    
+}
+p {
+    background-color: aqua;
+}
+a{
+    background-color: rgb(43, 168, 226);
+}
+div{
+    background-color: yellowgreen;
+}
+span {
+    background-color: rgb(255, 0, 34);
+}
